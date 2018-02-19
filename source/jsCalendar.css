@@ -87,7 +87,8 @@
 		.jsCalendar thead .jsCalendar-title-name {
 			font-size: 18px;
 			font-weight: lighter;
-			float: left;
+			width:60%;
+			float:left;
 			padding: 0px 20px;
 			cursor: default;
 		}
